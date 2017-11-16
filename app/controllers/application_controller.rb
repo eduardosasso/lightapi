@@ -1,6 +1,10 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
+  def index
+    render plain: "hi #{Rails.env}"
+  end
+
   def show
     # http://localhost:3000/trip/user.json?response={id:%20number,name:%20string,%20created_at:%20date,%20address:%20[phone:%20string,city:%20string]}
     rows = (params[:rows] || 10).to_i
