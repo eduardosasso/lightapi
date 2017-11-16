@@ -1,6 +1,6 @@
 # ApiUrl.io
 Quickly design and prototype API's.  
-Ddescribe your data structure using a Hash format.
+Describe your data structure using a Hash format.  
 Get JSON test data automatically based on your input.
 
 ## Use cases
