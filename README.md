@@ -1,12 +1,12 @@
 # ApiUrl.io
 Quickly design and prototype API's.  
-Describe your data structure declaratively.  
-Get test data automatically based on your input.
+Ddescribe your data structure using a Hash format.
+Get JSON test data automatically based on your input.
 
 ## Use cases
 A classical example would be something like this - you're a mobile engineer and you need a new API but it takes forever for the backend guys to build it so you are pretty much blocked until they have something to show. 
   
-Using ApiUrl.io you can collaboratively design the API and work in independently, your team mate building the real API can use the prototype you guys created as a baseline and you the iOS engineer can start building and simply replace the API endpoint when the official API is ready. 
+Using ApiUrl.io you can prototype the API in collaboration and work independently your team mate can code the real API using the prototype you guys designed as a baseline and you the iOS engineer can also start building and simply replace the endpoint when the official API is ready!
 
 ## Demo
 ```
