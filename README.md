@@ -1,4 +1,4 @@
-# LightAPI
+# ⚡LightAPI
 Quickly design and prototype API's.  
 Describe your data structure using the Hash format.  
 Get JSON test data automatically based on your input.
